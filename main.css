@@ -172,7 +172,6 @@ article footer p{
   color: #666;
   text-align: center;
   margin: 20px 0 10px 0;
-  padding: 0 0 10px 0;
   border-top: 1px solid #ccc;
     /*
         TODO:
@@ -185,5 +184,5 @@ article footer p{
     background: #333;
     text-align: center;
     color: #ffffff;
-    height: 40px;
+    padding: 15px;
 }
